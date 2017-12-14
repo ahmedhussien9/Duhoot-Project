@@ -11,6 +11,8 @@ All you need to have any editor with your favoirte browser.
 * CSS(3)
 * PURE JS
 * BOOSTRAP 
+* WOW JS
+* ANIMATE CSS
 # Notice
 The landing page is responsive 
 
