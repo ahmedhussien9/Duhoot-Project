@@ -15,6 +15,7 @@ All you need to have any editor with your favoirte browser.
 * ANIMATE CSS
 # Notice
 The landing page is responsive 
+Check the project online : http://duhoob.bitballoon.com/ 
 
 # Who do I talk to ? 
 Developed by Ahmed Hussien 
